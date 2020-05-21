@@ -1,2 +1,2 @@
-# zabbix
-Zabbix templates
+# Zabbix
+Collection of my Zabbix templates.
